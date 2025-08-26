@@ -1,1 +1,9 @@
-# Artificial-Intelligence-and-Deep-Learning-Applications-main
+# Artificial-Intelligence-and-Deep-Learning-Applications
+大二下_⼈⼯智慧與深度學習應⽤_期末報告
+
+授課老師：李仕雄
+
+# 主題 (問題)說明
+此期末報告主題為人工智慧與深度學習應用於創新服務，並涵蓋了演算法、系統架構設計(系統流程或服務流程)及應用方式三方面的探討。
+
+書面報告內容: 研究題目、研究動機及目的、相關研究探討、研究內容、系統設計與技術探討、結論及參考資料。
